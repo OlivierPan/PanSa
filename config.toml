@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://olivierpan.github.io/asa/"
 languageCode = "en-us"
 title = "PanSA's port"
 theme ='hugo-developer-portfolio'
